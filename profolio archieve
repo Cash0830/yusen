@@ -1,0 +1,102 @@
+
+	<html lang="en">
+	  <head>
+	    <meta charset="utf-8">
+	    <title>Portfolio</title>
+	  </head>
+	 <body bgcolor="#79946b"><center> 
+<a href="index.html" style="color: white;">Home</a>
+<a href="portfolio.html" style="color: white;">Portfolio</a> 
+<a href="aboutme.html" style="color: white;">About Me</a> 
+
+    <h1>Portfolio!</h1> 
+     <br> 
+	<h2>1.1.9 Build the Minion</h2>
+	  <img src="https://github.com/Cash0830/yusen/blob/main/minion.gif?raw=true" height="400"> 
+		<h3> This wonderful game will create two types minions(one eye or two eyes)based on your response!! </h3>  </h3>
+
+ <br> <br> <br> <br>
+	<h2>1.2.5 Alien Rescue</h2>
+<video width="590" height="340" controls> 
+  <source src="alien.mp4" type="video/mp4">
+    </Video>
+<h3> In this game, you'll use arrow keys to travel and rescue your alien friends by going near them!  </h3>
+
+		 <br> <br> <br> <br>
+		 <h2>1.3.1 Easter E-gg Hunt</h2>
+<video width="650" height="570" controls> 
+  <source src="eggcard3.mp4" type="video/mp4">
+    </Video>
+<h3> With this digital easter celebration card, youll move as a rabbit using WASD to collect 10 eggs!  </h3>
+
+		 	 <br> <br> <br> <br>
+		 <h2>Scratch Project</h2></h2>
+<iframe src="https://scratch.mit.edu/projects/1155802875/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+		 
+<h3> In this Scratch game we created, you are a bunny traveling around the world to find love while pressing jump to avoid obstacles! </h3>
+
+		 <br> <br> <br> <br>
+		 <h2>Scratch Project #2</h2></h2>
+<iframe src="https://scratch.mit.edu/projects/1159686477/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+		 
+<h3> In this Scratch game I created, you can ask a question and get an answer through the plinko! </h3>
+
+
+		 <br> <br> <br> <br>
+	<h2>2.1.6 Fish Tank</h2>
+	  <img src="https://github.com/Cash0830/yusen/blob/main/Screenshot%202025-05-16%20102938.png?raw=true" height="400"> 
+		<h3> In this project, we learned to analyze and debugged this code that is used to monitor fishtank using the built in Visual Studio code debugger feature! </h3>  </h3>
+
+ <br> <br> <br> <br>
+	<h2>3.1.6 Rover Phone Home</h2>
+	  <img src="https://github.com/Cash0830/yusen/blob/main/data.png?raw=true" height="400"> 
+		<h3> In this project, we were given data from four differnet sources and then used them to figure out what kind of environment the rover was in!! </h3>  </h3>
+
+
+ <br> <br> <br> <br>
+	<h2>4.1.4 Understanding Complex Systems </h2>
+	  <img src="https://github.com/Cash0830/yusen/blob/main/path.png?raw=true" height="400"> 
+		<h3> In this project, we studied and made a presentation on Paths, a complex system on NetLogo! </h3>  </h3>
+
+
+
+ 
+		 
+   </center>
+
+
+
+
+		 
+
+
+		 
+ <br> <br> <br> <br> 
+ <!-- 	<h1>   Second day scratch project.</h1>
+      <iframe allowtransparency="true" width="485" height="402" 
+        src="//scratch.mit.edu/projects/embed/169750963/?autostart=false" 
+        frameborder="0" allowfullscreen></iframe>
+      <br>
+    <h1>   Using App Inventor to make app game Duck Hunter.</h1>
+      <a target="_blank" href="images/DuckHunter.aia">
+        <img src="images/duckHunter.JPG" height="300">
+      </a>
+      <br>
+    <h1>   Interactive Fiction Rags to Riches.</h1>
+      <img src="https://github.com/Cash0830/yusen/blob/main/minion.gif?raw=true" height="300">
+      <br>
+    <h1>   Modified bits in pictures.</h1>
+     <a target="_blank" href="https://scratch.mit.edu/projects/169750963">
+      <img src="images/baby5.png" height="300">
+     </a>
+     <br>
+    <h1>   Use data files to create graphs.</h1>
+      <img src="images/nfl.jpg" height="300">
+    <br>
+    <h1>   Using netlogo do remix of illusions.</h1>
+      <a href="images/Optical Illusions.nlogo" download>
+       <img src="images/optical.jpg" height="300">
+      </a>
+-->
+    </center>
+	  </body>
